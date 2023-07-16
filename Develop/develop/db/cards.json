@@ -1,0 +1,129 @@
+const cardtitle = [
+    {
+        "ID": 1,
+        "title":"Null pointer exception.",
+    },
+
+    {
+        "ID": 2,
+        "title":"Stack overflow.",
+     },
+
+    {
+        "ID": 3,
+        "title":"It works on my machine syndrome.",
+    },
+
+    {
+        "ID": 4,
+        "title":"Uncaught syntax error.",
+    },
+
+    {
+        "ID": 5,
+        "title":"Spaghetti code.",
+    },
+
+    {
+        "ID": 6,
+        "title":"Infinite loop.",
+    },
+
+    {
+        "ID": 7,
+        "title":"Imposter syndrome.",
+    },
+
+    {
+        "ID": 8,
+        "title":"Overcomplicated design patterns.",
+    },
+
+    {
+        "ID": 9,
+        "title":"Merge conflict nightmare.",
+    },
+
+    {
+        "ID": 10,
+        "title":"Deprecated function.",
+    },
+
+    {
+        "ID": 11,
+        "title":"Magic numbers.",
+    },
+
+    {
+        "ID": 12,
+        "title":"Memory leak.",
+    },
+
+    {
+        "ID": 13,
+        "title":"Copy-paste code.",
+    },
+
+    {
+        "ID": 14,
+        "title":"Fix it later mentality.",
+    },
+    {
+        "ID": 15,
+        "title":"Accidentally deleting production data.",
+    },  
+    
+    {
+        "ID": 16,
+        "title":"Poorly named variables.",
+    },
+
+    {
+        "ID": 17,
+        "title":"Endless meetings.",
+    },
+
+    {
+        "ID": 18,
+        "title":"Did you try turning it off and on again?",
+    },
+
+    {
+        "ID": 19,
+        "title":"Off-by-one errors.",
+    },
+
+    {
+        "ID": 20,
+        "title":"Forgotten semicolons",
+    }
+
+
+];
+
+module.exports.default = cardtitle;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Works in IE6" compatibility.
+
+
+Silent errors.
+
+Inconsistent code formatting.
+Incorrect API documentation.
+
+
+
+Scope creep.
